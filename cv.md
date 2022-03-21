@@ -67,3 +67,26 @@ An interesting site on each page of which landscapes of amazing beauty are displ
 ![img eco-sounds](/img/es.JPG)
 
 [You can view here](https://plohotski.github.io/eco-sounds/)
+
+## Education
+
++ [2011-2016 "Belarusian State Agricultural Academy"](http://baa.by/)  Amelioration and Construction Faculty, Сivil engineer;
+
++ [Tutorials and books front-end development;](https://www.youtube.com/c/FreelancerLifeStyle)
+
++ [FreeCodeCamp:](https://www.freecodecamp.org/learn)
+
+    1. Responsive Web Design;
+
+    2. JavaScript Algorithms and Data Structures.
+
++ [JS/FE Pre-School 2022](https://rs.school/js-stage0/)
+![img SUCCESSFULLY COMPLETED](/img/sc.JPG)
+
++ [I am currently studying JavaScript/Front-end 2022](https://rs.school/js/)
+## Languages
+
++ Russian (native);
++ Belarusian (native);
++ English (A2
+Elementary ) undergoing training.
