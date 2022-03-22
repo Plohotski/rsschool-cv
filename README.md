@@ -1,1 +1,1 @@
-https://Plohotski.github.io/rsschool-cv/cv
+https://Plohotski.github.io/rsschool-cv/
